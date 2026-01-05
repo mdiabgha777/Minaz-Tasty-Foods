@@ -1,4 +1,4 @@
-import AkaraImg from '../assets/akara-sisiyemmienigerian.jpg'
+import AkaraImg from '../assets/akara.jpg'
 import VegRiceImg from '../assets/vegetable-rice.jpg'
 import WingsImg from '../assets/chicken-wings.jpg'
 import EnglishImg from '../assets/english-breakfast.jpg'
