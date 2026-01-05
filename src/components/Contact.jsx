@@ -21,7 +21,7 @@ function Contact() {
           <p>
             📍{' '}
             <span className="font-semibold text-[#5C2671]">
-              Minaz Tasty Foods, Kairaba Avenue, Serrekunda
+              Minaz Tasty Foods, Senegambia New Road, The Gambia
             </span>
           </p>
           <p>

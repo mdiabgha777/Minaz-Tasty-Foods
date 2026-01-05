@@ -3,7 +3,7 @@ import AboutImage from '../assets/slider2.png';
 
 function About() {
   return (
-    <section id='about' className="bg-[#FFF6E6] py-16 px-4 md:px-24">
+    <section id='about' className="bg-[#FFF6E6] py-16 px-4 md:px-24 animate-slide-up">
       <div className="max-w-7xl mx-auto flex flex-col-reverse lg:flex-row items-center gap-12">
         {/* Text Section */}
         <div className="lg:w-1/2 text-center lg:text-left">
@@ -18,12 +18,6 @@ function About() {
             With love and passion poured into every plate, we aim to bring comfort, culture, and taste to your table. Whether you're craving grilled chicken, fried fish, or a hearty plate of Jollof Rice, Minaz is the place to be.
           </p>
           
-          <a 
-            href="#menu"
-            className="inline-block bg-[#C1272D] hover:bg-[#A21B24] text-white font-bold py-3 px-6 rounded-lg shadow-md transition duration-300"
-          >
-            Explore Our Menu
-          </a>
         </div>
 
         {/* Image Section */}

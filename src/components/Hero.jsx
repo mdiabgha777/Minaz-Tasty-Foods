@@ -1,4 +1,4 @@
-import SaladImg from '../assets/Salad-anh-nguyen.jpg'
+
 import Sliderimg from '../assets/slider1.png'
 
 function Hero() {
@@ -7,7 +7,7 @@ function Hero() {
       <div className="flex flex-col md:flex-row items-center justify-between gap-12">
         
         {/* Left: Text Content */}
-        <div className="max-w-xl text-center md:text-left">
+        <div className="max-w-xl text-center md:text-left animate-slide-up">
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-[#5C2671] leading-tight mb-6">
             Taste the Tradition at <br /> Minaz Tasty Foods
           </h1>
@@ -16,14 +16,14 @@ function Hero() {
             Serving mouthwatering shawarmas, wraps, grilled chicken & fish, and Gambian favorites like domoda, super kanja, and yassa — from our family to yours.
           </p>
 
-          <button className="bg-[#C1272D] hover:bg-[#a32025] cursor-pointer
+          <a href="#menu" className="bg-[#C1272D] hover:bg-[#a32025] cursor-pointer
             text-white px-6 py-3 rounded-lg font-bold transition-colors duration-200">
             View Menu
-          </button>
+          </a>
         </div>
 
         {/* Right: Image */}
-        <div className="w-full md:w-[500px]">
+        <div className="w-full md:w-[500px] animate-slide-up">
           <img
             src={Sliderimg}
             alt="Delicious Gambian Food"
