@@ -1,67 +1,57 @@
-import MacCheeseImg from '../assets/maccheese.jpg'
-import NoodlesImg from '../assets/noodles.jpg'
-import PancakesImg from '../assets/pancakesgambia.webp'
-import MashedPotatoImg from '../assets/mashedpotato.jpg'
-import FishCakeImg from '../assets/fishcake.webp'
-import RoastedCarrotsImg from '../assets/roastedcarrots.jpg'
-import PotatoSaladImg from '../assets/potatosalad.webp'
-import VegRiceImg from '../assets/vegetablerice.jpg'
-import BreadImg from '../assets/gambiabread.jpg'
-
 const Sides = [
   {
     name: 'Mac and Cheese',
     description: '',
     price: 'D70',
-    image: MacCheeseImg,
+    image: '/images/maccheese.jpg',
   },
   {
     name: 'Fried Noodles',
     description: '',
     price: 'D50',
-    image: NoodlesImg,
+    image: '/images/noodles.jpg',
   },
   {
     name: 'Pankett (Gambian Pancakes)',
     description: '',
     price: 'D70',
-    image: PancakesImg,
+    image: '/images/pancakesgambia.webp',
   },
   {
     name: 'Mashed Potato',
     description: '',
     price: 'D50',
-    image: MashedPotatoImg,
+    image: '/images/mashedpotato.jpg',
   },
   {
     name: 'Fish Cake',
     description: '',
     price: 'D70',
-    image: FishCakeImg,
+    image: '/images/fishcake.webp',
   },
   {
     name: 'Roasted Carrots',
     description: '',
     price: 'D30',
-    image: RoastedCarrotsImg,
+    image: '/images/roastedcarrots.jpg',
   },
   {
     name: 'Potato Salad',
     description: '',
     price: 'D50',
-    image: PotatoSaladImg,
+    image: '/images/potatosalad.webp',
   },
   {
     name: 'Rice',
     description: 'Cooked with mix vegetables',
     price: 'D30',
-    image: VegRiceImg,
+    image: '/images/vegetablerice.jpg',
   },
   {
     name: 'Local Bread',
     description: '',
     price: 'D20',
-    image: BreadImg,
+    image: '/images/gambiabread.jpg',
   },
 ]
 

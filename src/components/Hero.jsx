@@ -1,5 +1,4 @@
-
-import Sliderimg from '../assets/slider1.png'
+import React from 'react'
 
 function Hero() {
   return (
@@ -25,7 +24,7 @@ function Hero() {
         {/* Right: Image */}
         <div className="w-full md:w-[500px] animate-slide-up">
           <img
-            src={Sliderimg}
+            src="/images/slider1.png"
             alt="Delicious Gambian Food"
             className="rounded-2xl object-cover w-full"
           />

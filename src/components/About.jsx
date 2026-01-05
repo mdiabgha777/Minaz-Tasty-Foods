@@ -1,5 +1,4 @@
 import React from 'react';
-import AboutImage from '../assets/slider2.png';
 
 function About() {
   return (
@@ -23,7 +22,7 @@ function About() {
         {/* Image Section */}
         <div className="lg:w-1/2 w-full">
           <img 
-            src={AboutImage} 
+            src="/images/slider2.png" 
             alt="Minaz restaurant interior or dish" 
             className="rounded-xl object-cover w-full h-[250px] sm:h-[350px] md:h-[400px]"
           />

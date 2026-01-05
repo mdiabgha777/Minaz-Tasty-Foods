@@ -1,60 +1,51 @@
-import AkaraImg from '../assets/akara.jpg'
-import VegRiceImg from '../assets/vegetablerice.jpg'
-import WingsImg from '../assets/chickenwings.jpg'
-import EnglishImg from '../assets/englishbreakfast.jpg'
-import NyambehImg from '../assets/nyambehnyebeh.jpg'
-import OmeletImg from '../assets/omlette.jpg'
-import SandwichImg from '../assets/beefsandwich.jpg'
-import WrapImg from '../assets/wraps.jpg'
-
 const breakfastMenu = [
   {
     name: 'Akara',
     description: 'Bean Fritters with dipping sauce',
     price: 'D60',
-    image: AkaraImg,
+    image: '/images/akara.jpg',
   },
   {
     name: 'Beef Scotch Egg with Green Beans',
     description: '',
     price: 'D200',
-    image: VegRiceImg,
+    image: '/images/vegetablerice.jpg',
   },
   {
     name: 'Chicken Wings',
     description: 'Grilled or Fried',
     price: 'D200',
-    image: WingsImg,
+    image: '/images/chickenwings.jpg',
   },
   {
     name: 'English Breakfast',
     description: 'Poached egg, beans, and sausage.',
     price: 'D150',
-    image: EnglishImg,
+    image: '/images/englishbreakfast.jpg',
   },
   {
     name: 'Nyambeh Nyebeh',
     description: 'Cassava and Beans with Fried fish',
     price: 'D100',
-    image: NyambehImg,
+    image: '/images/nyambehnyebeh.jpg',
   },
   {
     name: 'Omelet',
     description: 'Garnished with fresh vegetables.',
     price: 'D100',
-    image: OmeletImg,
+    image: '/images/omlette.jpg',
   },
   {
     name: 'Sandwich (Beef/Chicken/shrimp)',
     description: 'Garnished with fresh vegetables.',
     price: 'D100',
-    image: SandwichImg,
+    image: '/images/beefsandwich.jpg',
   },
   {
     name: 'Wrap',
     description: '',
     price: 'D125',
-    image: WrapImg,
+    image: '/images/wraps.jpg',
   },
 ]
 

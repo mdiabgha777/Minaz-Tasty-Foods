@@ -1,102 +1,87 @@
-import BeefBurgerImg from '../assets/beefburger.jpg'
-import BeefStewImg from '../assets/beefstew.jpg'
-import ChickenAfraImg from '../assets/chickenafra.jpg'
-import DomodaImg from '../assets/domoda.jpg'
-import GrilledFishImg from '../assets/grilledfish.jpg'
-import PlasasImg from '../assets/plasas.jpg'
-import SuperKanjaImg from '../assets/superkanja.webp'
-import YassaImg from '../assets/yassa.jpg'
-import ShawarmaImg from '../assets/chickensharwarma.jpg'
-import ChickenBreastImg from '../assets/chickenbreast.jpg'
-import ChickenBurgerImg from '../assets/chickenburger.jpg'
-import DrumsticksImg from '../assets/chickendrumbsticks.jpg'
-import ChickenLegImg from '../assets/chickenlegs.jpg'
-import JollofRiceImg from '../assets/jollofrice.jpg'
-
 const lunchDinnerMenu = [
   {
     name: 'Beef Burger',
     description: '',
     price: 'D200',
-    image: BeefBurgerImg,
+    image: '/images/beefburger.jpg',
   },
   {
     name: 'Beef Stew',
     description: 'Delicious Stew served with rice',
     price: 'D100',
-    image: BeefStewImg,
+    image: '/images/beefstew.jpg',
   },
   {
     name: 'Chicken Afra',
     description: '',
     price: 'D150',
-    image: ChickenAfraImg,
+    image: '/images/chickenafra.jpg',
   },
   {
     name: 'Domoda',
     description: 'Groudnut Paste stew with beef/chicken and rice',
     price: 'D100',
-    image: DomodaImg,
+    image: '/images/domoda.jpg',
   },
   {
     name: 'Fish',
     description: 'Grilled or Fried',
     price: 'D150 - D300',
-    image: GrilledFishImg,
+    image: '/images/grilledfish.jpg',
   },
   {
     name: 'Benachin (Jollof Rice)',
     description: '',
     price: 'D100',
-    image: JollofRiceImg,
+    image: '/images/jollofrice.webp',
   },
   {
     name: 'Plasas',
     description: 'Spinach leaf stew served with rice',
     price: 'D100',
-    image: PlasasImg,
+    image: '/images/plasas.jpg',
   },
   {
     name: 'Super Kanja',
     description: 'Okra stew served with rice',
     price: 'D100',
-    image: SuperKanjaImg,
+    image: '/images/superkanja.webp',
   },
   {
     name: 'Yassa',
     description: 'Tangy onion-based chicken dish with amazing flavours & spices.',
     price: 'D100',
-    image: YassaImg,
+    image: '/images/yassa.jpg',
   },
   {
     name: 'Sharwarma',
     description: 'Beef, Chicken or fish',
     price: 'D125',
-    image: ShawarmaImg,
+    image: '/images/shawarma.jpg',
   },
   {
     name: 'Chicken Breast',
     description: 'Bean Fritters with dipping sauce',
     price: 'D200',
-    image: ChickenBreastImg,
+    image: '/images/chickenbreast.jpg',
   },
   {
     name: 'Burger',
     description: 'Chicken or Beef',
     price: 'D150',
-    image: ChickenBurgerImg,
+    image: '/images/chickenburger.jpg',
   },
   {
     name: 'Chicken Drumbsticks',
     description: 'Grilled or breaded.',
     price: 'D200',
-    image: DrumsticksImg,
+    image: '/images/chickendrumbsticks.jpg',
   },
   {
     name: 'Chicken Leg',
     description: 'Grilled or fried.',
     price: 'D150',
-    image: ChickenLegImg,
+    image: '/images/chickenlegs.jpg',
   },
 ]
 
