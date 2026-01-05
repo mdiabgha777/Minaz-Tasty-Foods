@@ -1,21 +1,14 @@
-import SaladImg from '../assets/Salad-anh-nguyen.jpg'
 import MacCheeseImg from '../assets/maccheese-heyronmar.jpg'
 import NoodlesImg from '../assets/noodles-ikhsan-baihaqi.jpg'
 import PancakesImg from '../assets/pancakes-gambia.webp'
 import MashedPotatoImg from '../assets/mashedpotato-iara-melo-.jpg'
-import FishCakeImg from '../assets/Fish-Cake.webp'
-import RoastedCarrotsImg from '../assets/Roasted-carrots.jpg'
-import PotatoSaladImg from '../assets/Potato-Salad.webp'
-import VegRiceImg from '../assets/Vegetable-rice.jpg'
-import BreadImg from '../assets/Gambia-bread.jpg'
+import FishCakeImg from '../assets/fishcake.webp'
+import RoastedCarrotsImg from '../assets/roasted-carrots.jpg'
+import PotatoSaladImg from '../assets/potato-salad.webp'
+import VegRiceImg from '../assets/vegetable-rice.jpg'
+import BreadImg from '../assets/gambia-bread.jpg'
 
 const Sides = [
-  {
-    name: 'Salad Bowl',
-    description: '',
-    price: 'D50',
-    image: SaladImg,
-  },
   {
     name: 'Mac and Cheese',
     description: '',

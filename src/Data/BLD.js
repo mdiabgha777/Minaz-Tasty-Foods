@@ -1,9 +1,9 @@
-import AkaraImg from '../assets/Akara-sisiyemmienigerian.JPG'
-import VegRiceImg from '../assets/Vegetable-rice.JPG'
+import AkaraImg from '../assets/akara-sisiyemmienigerian.JPG'
+import VegRiceImg from '../assets/vegetable-rice.JPG'
 import WingsImg from '../assets/chicken-wings.jpg'
 import EnglishImg from '../assets/english-breakfast.jpg'
 import NyambehImg from '../assets/nyambeh-nyebeh.JPG'
-import OmeletImg from '../assets/Omlette-samuel-agyeman-duah.jpg'
+import OmeletImg from '../assets/omlette-samuel-agyeman-duah.jpg'
 import SandwichImg from '../assets/beef-sandwich.jpg'
 import WrapImg from '../assets/wraps.jpg'
 
