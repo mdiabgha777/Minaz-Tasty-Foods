@@ -1,16 +1,17 @@
-import BeefBurgerImg from '../assets/beef-burger.jpg'
-import BeefStewImg from '../assets/beef-stew-rice.jpg'
-import ChickenAfraImg from '../assets/chicken-afra.jpg'
+import BeefBurgerImg from '../assets/beefburger.jpg'
+import BeefStewImg from '../assets/beefstew.jpg'
+import ChickenAfraImg from '../assets/chickenafra.jpg'
 import DomodaImg from '../assets/domoda.jpg'
 import GrilledFishImg from '../assets/grilledfish.jpg'
 import PlasasImg from '../assets/plasas.jpg'
 import SuperKanjaImg from '../assets/superkanja.webp'
 import YassaImg from '../assets/yassa.jpg'
-import ShawarmaImg from '../assets/chicken-sharwarma.jpg'
-import ChickenBreastImg from '../assets/chicken-breast.jpg'
-import ChickenBurgerImg from '../assets/chicken-burger.jpg'
-import DrumsticksImg from '../assets/chicken-drumbsticks.jpg'
-import ChickenLegImg from '../assets/chicken-legs.jpg'
+import ShawarmaImg from '../assets/chickensharwarma.jpg'
+import ChickenBreastImg from '../assets/chickenbreast.jpg'
+import ChickenBurgerImg from '../assets/chickenburger.jpg'
+import DrumsticksImg from '../assets/chickendrumbsticks.jpg'
+import ChickenLegImg from '../assets/chickenlegs.jpg'
+import JollofRiceImg from '../assets/jollofrice.jpg'
 
 const lunchDinnerMenu = [
   {
@@ -42,6 +43,12 @@ const lunchDinnerMenu = [
     description: 'Grilled or Fried',
     price: 'D150 - D300',
     image: GrilledFishImg,
+  },
+  {
+    name: 'Benachin (Jollof Rice)',
+    description: '',
+    price: 'D100',
+    image: JollofRiceImg,
   },
   {
     name: 'Plasas',

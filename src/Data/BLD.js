@@ -1,10 +1,10 @@
 import AkaraImg from '../assets/akara.jpg'
-import VegRiceImg from '../assets/vegetable-rice.jpg'
-import WingsImg from '../assets/chicken-wings.jpg'
-import EnglishImg from '../assets/english-breakfast.jpg'
-import NyambehImg from '../assets/nyambeh-nyebeh.jpg'
-import OmeletImg from '../assets/omlette-samuel-agyeman-duah.jpg'
-import SandwichImg from '../assets/beef-sandwich.jpg'
+import VegRiceImg from '../assets/vegetablerice.jpg'
+import WingsImg from '../assets/chickenwings.jpg'
+import EnglishImg from '../assets/englishbreakfast.jpg'
+import NyambehImg from '../assets/nyambehnyebeh.jpg'
+import OmeletImg from '../assets/omlette.jpg'
+import SandwichImg from '../assets/beefsandwich.jpg'
 import WrapImg from '../assets/wraps.jpg'
 
 const breakfastMenu = [
